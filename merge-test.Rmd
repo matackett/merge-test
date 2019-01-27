@@ -1,6 +1,6 @@
 ---
 title: "Merge Test"
-author: "TEAM"
+author: "MY NEW TEAM NAME"
 output: html_document
 ---
 
